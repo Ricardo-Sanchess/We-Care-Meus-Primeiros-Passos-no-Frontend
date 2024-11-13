@@ -10,15 +10,17 @@
 .logo-image {
     width: 568px;
     height: 500px;
-    margin-left: 125px;
+    
     display:inline-block;
 
 }
 section{
-    display: inline-block;
-    margin-left: 86px;
-    
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10vw;
 }
+
+
 
 h1 {
     
